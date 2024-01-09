@@ -23,7 +23,7 @@ Um módulo Xposed para personalizar seu WhatsApp.
 
 ## Compatibilidade
 
-- WhatsApp Beta 2.23.24.12
+- WhatsApp Beta
 
 ## Uso
 
