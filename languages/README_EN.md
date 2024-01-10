@@ -8,6 +8,7 @@ An Xposed module to customize your WhatsApp.
 
 ### Customization
 
+- Activate new WhatsApp Theme.
 - Put seconds next to the times.
 - Add text next to times.
 
@@ -19,7 +20,8 @@ An Xposed module to customize your WhatsApp.
 - Hide message view.
 - Hide status: typing.
 - Hide status: recording audio.
-- More functions coming soon, the module is not ready.
+- Disable view once.
+- More functions coming soon.
 
 ## Compatibility
 
