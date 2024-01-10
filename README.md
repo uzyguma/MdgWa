@@ -8,6 +8,7 @@ Um módulo Xposed para personalizar seu WhatsApp.
 
 ### Personalização
 
+- Ativar novo Tema do WhatsApp.
 - Colocar segundos ao lado dos horários.
 - Adicionar texto ao lado dos horários.
 
@@ -19,7 +20,8 @@ Um módulo Xposed para personalizar seu WhatsApp.
 - Ocultar visualização de mensagem.
 - Ocultar status: digitando.
 - Ocultar status: gravando audio.
-- Mais funções em breve, o módulo não está pronto.
+- Desativar visualização única.
+- Mais funções em breve.
 
 ## Compatibilidade
 
