@@ -33,3 +33,7 @@ Um módulo Xposed para personalizar seu WhatsApp.
 - [Baixar Modulo](https://github.com/ItsMadruga/MdgWa/releases/latest)
 - Instale o Módulo e ative no LSPosed
 - Reinicie o WhatsApp para que as modificações entrem em vigor.
+
+## Canal
+
+- [Telegram](https://t.me/mdgwamodule)
