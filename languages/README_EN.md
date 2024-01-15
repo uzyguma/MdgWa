@@ -33,3 +33,7 @@ An Xposed module to customize your WhatsApp.
 - [Download Module](https://github.com/ItsMadruga/MdgWa/releases/latest)
 - Install the Module and activate it in LSPosed
 - Restart WhatsApp for the changes to take effect.
+
+## Channel
+
+- [Telegram](https://t.me/mdgwamodule)
